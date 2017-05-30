@@ -1,0 +1,24 @@
+{
+    "author": "freethingsare@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblelemmings",
+    "pebble": {
+        "displayName": "PebbleLemmings",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "6277065f-e67e-48a6-b928-5284d11a0559",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
